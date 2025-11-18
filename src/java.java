@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class java {
+public class capitalFinal {
 
     public static boolean isDataValid(double initialCapital, double annualInterestRate, int periodsPerYear, double timeInYears) {
         boolean isValid = true;
@@ -71,3 +71,4 @@ public class java {
         scanner.close();
     }
 }
+
